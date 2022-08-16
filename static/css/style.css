@@ -1,0 +1,28 @@
+.jumbotron {
+    background-image: url('../images/bacteria_2.jpg');
+    background-blend-mode:soft-light;
+    background-size: 100% 100%;
+    text-align: center;
+}
+.jumbotron h1{
+    color: rgb(97, 97, 97);
+}
+.jumbotron p{
+    color: rgb(97, 97, 97);
+}
+
+.container {
+    background:mistyrose;
+}
+
+.main-sgv {
+    background:mistyrose;
+}
+
+body {
+    background:mistyrose;
+}
+
+.navbar a{
+    color: rgb(97, 97, 97);
+}
